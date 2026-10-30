@@ -1,0 +1,6 @@
+{
+  "name": "Mitra Tumbuh - Aquaculture Management System",
+  "description": "Sistem manajemen budidaya perikanan modern terpadu untuk pencatatan stok ikan, jadwal pakan, kualitas air, keuangan, dan estimasi FCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
